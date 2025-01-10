@@ -1,0 +1,1 @@
+# surrealdb-rs-cli-tool
